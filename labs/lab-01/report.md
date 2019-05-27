@@ -13,6 +13,13 @@ What I got out of reading that chapter is that you have to be careful about what
 ![man tree](../../images/lab-01/man-tree.png)
 
 ## Regex
+![1](../../images/lab-01/r1.png)
+![2](../../images/lab-01/r2.png)
+![3](../../images/lab-01/r3.png)
+![4](../../images/lab-01/r4.png)
+![5](../../images/lab-01/r5.png)
+![6](../../images/lab-01/r6.png)
+![7](../../images/lab-01/r7.png)
 
 ## Snap/Blockly
 
