@@ -26,6 +26,7 @@ What I got out of reading that chapter is that you have to be careful about what
 ![3](../../images/lab-01/cw3.png)
 ![4](../../images/lab-01/cw4.png)
 
-## Snap/Blockly
+## Blockly
+![1](../../images/lab-01/blockly.png)
 
 ## Reflection
