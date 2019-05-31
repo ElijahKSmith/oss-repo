@@ -9,4 +9,4 @@ I'm a man who wears many hats. One is as a Producer and former Head of Rules and
 
 ## Lab Reports
 * [Lab 1](labs/lab-01/report.md)
-* [Lab 2](https://github.com/SquidThePrinter/lab2part1/)
+* [Lab 2](labs/lab-02/report.md)
