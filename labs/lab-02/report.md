@@ -9,3 +9,8 @@ Repository link: [https://github.com/SquidThePrinter/lab2part1/](https://github.
 ## Part 2
 Repository link: [https://github.com/SquidThePrinter/Spoon-Knife/](https://github.com/SquidThePrinter/Spoon-Knife/)
 ![Learn Git Branching](../../images/lab-02/learnbranching.png)
+
+## Part 3
+Repository link: [https://github.com/SquidThePrinter/PullReq/](https://github.com/SquidThePrinter/PullReq/)
+![diff](../../images/lab-02/diff.png)
+![tag](../../images/lab-02/tag.png)
