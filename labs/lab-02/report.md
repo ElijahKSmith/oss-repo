@@ -11,6 +11,10 @@ Repository link: [https://github.com/SquidThePrinter/Spoon-Knife/](https://githu
 ![Learn Git Branching](../../images/lab-02/learnbranching.png)
 
 ## Part 3
+### Solo
 Repository link: [https://github.com/SquidThePrinter/PullReq/](https://github.com/SquidThePrinter/PullReq/)
 ![diff](../../images/lab-02/diff.png)
 ![tag](../../images/lab-02/tag.png)
+
+### Team
+Repository link: [https://github.com/beshaz/OSSProjectIdeas/](https://github.com/beshaz/OSSProjectIdeas/)
