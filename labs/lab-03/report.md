@@ -2,6 +2,11 @@
 
 ## Part 1
 
+
+
+![latex1](../../images/lab-03/latex1.png)
+![latex2](../../images/lab-03/latex2.png)
+
 ## Part 2
 ### My pieces
 I looked at [https://rcos.io/projects/runelite/runelite/profile/](https://rcos.io/projects/runelite/runelite/profile/) stats as of 6/7/19 11:07 AM
