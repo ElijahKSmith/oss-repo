@@ -42,7 +42,7 @@ RPI Campus Map
 * Current branches: 5 (master, forgemill-dev, forgemill, dev, production)
 
 ![mapstats](../../images/lab-03/mapstats.png)
-![mapgource](../../images/lab-03/mapstats.png)
+![mapgource](../../images/lab-03/mapgource.png)
 
 ---
 #### James Berry
