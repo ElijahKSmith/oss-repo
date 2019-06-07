@@ -9,7 +9,7 @@ Here is the [wiki page](https://github.com/SquidThePrinter/oss-repo/wiki/Lab-3-P
 ![latex2](../../images/lab-03/latex2.png)
 
 ## Part 2
-### My pieces
+### My chosen repo
 I looked at [https://rcos.io/projects/runelite/runelite/profile/](https://rcos.io/projects/runelite/runelite/profile/) stats as of 6/7/19 11:07 AM
 
 * Number of contributers: 334
@@ -25,7 +25,7 @@ I looked at [https://rcos.io/projects/runelite/runelite/profile/](https://rcos.i
 
 Gitstats differs from information obtained by looking at Github repository and running the `git ls-files -z | xargs -0 wc -l` command, number of contributors increased to 427 from 334, lines of code increased to 325628 from 48074.
 
-### Groupmates' pieces
+### Groupmates' chosen repos
 #### Griffin Smith
 RPI Campus Trends Repo Data:
 
