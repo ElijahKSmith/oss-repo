@@ -5,6 +5,7 @@
 
 
 ![latex1](../../images/lab-03/latex1.png)
+
 ![latex2](../../images/lab-03/latex2.png)
 
 ## Part 2
@@ -18,6 +19,7 @@ I looked at [https://rcos.io/projects/runelite/runelite/profile/](https://rcos.i
 * Current branches: master
 
 ![gitstats](../../images/lab-03/gitstats.png)
+
 ![gource](../../images/lab-03/gource.png)
 *It should be noted that this is not the full gource tree for this repo, as the full tree would take around 6 hours to generate at over 250GB of ppm footage.*
 
@@ -34,6 +36,7 @@ RPI Campus Trends Repo Data:
 * Current Branches: 2 (master and flask-refractor)
 
 ![coursestats](../../images/lab-03/coursestats.png)
+
 ![coursegource](../../images/lab-03/coursegource.png)
 
 ---
@@ -47,6 +50,7 @@ RPI Campus Map
 * Current branches: 5 (master, forgemill-dev, forgemill, dev, production)
 
 ![mapstats](../../images/lab-03/mapstats.png)
+
 ![mapgource](../../images/lab-03/mapgource.png)
 
 ---
