@@ -4,7 +4,7 @@
 
 ## Part 2
 ### My pieces
-I looked at (https://rcos.io/projects/runelite/runelite/profile/)[https://rcos.io/projects/runelite/runelite/profile/] stats as of 6/7/19 11:07 AM
+I looked at [https://rcos.io/projects/runelite/runelite/profile/](https://rcos.io/projects/runelite/runelite/profile/) stats as of 6/7/19 11:07 AM
 
 * Number of contributers: 334
 * Number of lines of code: 48074
@@ -42,7 +42,6 @@ RPI Campus Map
 * Current branches: 5 (master, forgemill-dev, forgemill, dev, production)
 
 ![mapstats](../../images/lab-03/mapstats.png)
-
 ![mapgource](../../images/lab-03/mapgource.png)
 
 ---
