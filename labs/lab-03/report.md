@@ -2,7 +2,7 @@
 
 ## Part 1
 
-
+Here is the [wiki page](https://github.com/SquidThePrinter/oss-repo/wiki/Lab-3-Part-1/) which contains my area of interest project.
 
 ![latex1](../../images/lab-03/latex1.png)
 
