@@ -8,7 +8,7 @@
 
 **6.** The Linux kernel uses GPL v2 for several reasons. Firstly, as the kernel was adapted to move off of the original system that Linux Torvalds developed it for (called MINIX) and towards GNU applications, he was required by the GPL to change the license to the GPL licanse as per the provisions of the GPL license ([source](https://web.archive.org/web/20070819045030/http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12)). There were also many advocates that requested Linux switch over to GPL due to the provision in it to allow for it to be distributed for money. Today, the license is GPL v2, which Torvalds states he has no intention of upgrading to GPL v3 due to provisions that prohibit the use of the software in digital rights management and the impossibility to obtain permission from all copyright holders to update the license due to the thousands that there are ([source](https://www.gnu.org/licenses/quick-guide-gplv3.html#neutralizing-laws-that-prohibit-free-software-but-not-forbidding-drm)). Therefore, the choice of license for the Linux kernel at GPL v2 makes sense based of of the history and the purpose of the Linux project as well as the improbability to be able to change it in the future.
 
-**7.**
+**7.** Link: [https://github.com/SquidThePrinter/Lab4-Business/](https://github.com/SquidThePrinter/Lab4-Business)
 
 **8.**
 
