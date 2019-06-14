@@ -64,3 +64,4 @@ RushMeiOS
 * Branches: 11 (Cam, Chat, ErrorSystem, NewLook, Notifications, SaveFrats, calendar, changes-jim, favorites, linted-version, master)
 
 ![rushmestats](../../images/lab-03/rushmestats.png)
+![rushmegource](../../images/lab-03/rushmegource.png)
