@@ -1,3 +1,4 @@
+
 # Open Source Software - Summer 2019
 ## Elijah Smith (@de_squid on Mattermost)
 
@@ -12,3 +13,4 @@ I'm a man who wears many hats. One is as a Producer and former Head of Rules and
 * [Lab 2](labs/lab-02/report.md)
 * [Lab 3](labs/lab-03/report.md)
 * [Lab 4](labs/lab-04/Lab4.md)
+* [Lab 5](labs/lab-05/Lab5.md)
