@@ -363,3 +363,34 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
 ![Step 5](../../images/lab-05/step5.png)
+
+---
+
+Makefile
+```make
+static: program.a
+shared: program.so
+
+# Static library
+program.a: program.o libblock.a
+	cc program.o libblock.a -o static_program
+
+program.o: program.c headers/block.h
+	cc -c program.c
+
+libblock.a: source/block.c headers/block.h
+	cc -c source/block.c
+	ar qc libblock.a block.o
+
+# Shared Library
+program.so: program.o libblock.so
+	cc program.o libblock.so -o shared_program -Wl,-rpath .
+
+libblock.so: source/block.c headers/block.h
+	cc -fPIC -c source/block.c
+	cc -shared block.o -o libblock.so
+
+# Clean
+clean:
+	rm -rf *.o *.a *.so
+```
