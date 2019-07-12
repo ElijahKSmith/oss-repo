@@ -11,3 +11,6 @@
 
 ## Example 03
 ![flask](../../images/lab-06/flask.png)
+
+## Example 04
+![compose](../../images/lab-06/compose.png)
