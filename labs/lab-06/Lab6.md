@@ -5,5 +5,4 @@
 
 ## Example 01
 ![cowsay](../../images/lab-06/cowsay.png)
-
 ![vim](../../images/lab-06/vim.png)
