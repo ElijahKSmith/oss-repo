@@ -6,3 +6,8 @@
 ## Example 01
 ![cowsay](../../images/lab-06/cowsay.png)
 ![vim](../../images/lab-06/vim.png)
+
+## Example 02
+
+## Example 03
+![flask](../../images/lab-06/flask.png)
