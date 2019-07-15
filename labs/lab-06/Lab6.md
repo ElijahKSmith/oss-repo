@@ -8,6 +8,8 @@
 ![vim](../../images/lab-06/vim.png)
 
 ## Example 02
+![rocketps](../../images/lab-06/rocketps.png)
+![rocketchat](../../images/lab-06/rocketchat.png)
 
 ## Example 03
 ![flask](../../images/lab-06/flask.png)
