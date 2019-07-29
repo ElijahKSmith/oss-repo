@@ -11,3 +11,13 @@
 ![ggplot_8](../../images/lab-08/ggplot_8.png)
 ![ggplot_9](../../images/lab-08/ggplot_9.png)
 ![ggplot_0](../../images/lab-08/ggplot_0.png)
+
+## 4
+![reg_1](../../images/lab-08/reg_1.png)
+![reg_2](../../images/lab-08/reg_2.png)
+![reg_3](../../images/lab-08/reg_3.png)
+![reg_4](../../images/lab-08/reg_4.png)
+![reg_5](../../images/lab-08/reg_5.png)
+![reg_6](../../images/lab-08/reg_6.png)
+![reg_7](../../images/lab-08/reg_7.png)
+![reg_0](../../images/lab-08/reg_0.png)
