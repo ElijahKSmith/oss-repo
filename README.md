@@ -15,3 +15,6 @@ I'm a man who wears many hats. One is as a Producer and former Head of Rules and
 * [Lab 4](labs/lab-04/Lab4.md)
 * [Lab 5](labs/lab-05/Lab5.md)
 * [Lab 6](labs/lab-06/Lab6.md)
+* [Lab 7](labs/lab-07/Lab7.md)
+* [Lab 8](labs/lab-08/Lab8.md)
+* [Lab 9](labs/lab-09/Lab9.md)
