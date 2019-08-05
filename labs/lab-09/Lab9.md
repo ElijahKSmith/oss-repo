@@ -8,11 +8,11 @@
 ![check2](../../images/lab-09/check2.png)
 
 ## Checkpoint 3
-![check3-1orig](../../images/lab-09/check3-1orig.png)
+![check3-1orig](../../images/lab-09/check3-1orig.png =200x)
 ![check3-1](../../images/lab-09/check3-1.png)
 
-![check3-2orig](../../images/lab-09/check3-2orig.png)
+![check3-2orig](../../images/lab-09/check3-2orig.png =200x)
 ![check3-2](../../images/lab-09/check3-2.png)
 
-![check3-3orig](../../images/lab-09/check3-3orig.png)
+![check3-3orig](../../images/lab-09/check3-3orig.png =200x)
 ![check3-3](../../images/lab-09/check3-3.png)
