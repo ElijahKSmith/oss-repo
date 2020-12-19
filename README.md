@@ -1,6 +1,6 @@
 
 # Open Source Software - Summer 2019
-## Elijah Smith (@de_squid on Mattermost)
+## Elijah Smith (@ElijahKSmith on Mattermost)
 
 ## Bio
 ![me_irl](images/lab-01/me.jpg)
